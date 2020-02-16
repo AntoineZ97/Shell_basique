@@ -1,2 +1,3 @@
 # Shell_basique
-Shell avec fonctionnalités baisques écrit en C.
+*Shell avec fonctionnalités basiques écrit en C.*
+**OS : Linux.**
